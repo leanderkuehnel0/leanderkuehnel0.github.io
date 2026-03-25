@@ -38,22 +38,37 @@ header: The Good Friday Agreement - sustainable peace or temporary solution?
 
 ---
 
-# Table on Contents
+# Table of Contents
 1. Introduction
-1.1 Defining the leading question
-1.2 Particular focus and why
-2. Background: The Troubles
-2.1 Structural causes of the Troubles
-2.2 Main actors during the conflict
+   1.1 Defining the leading question
+   1.2 Particular focus and why
+2. Background of the Troubles
+   2.1 Government of Ireland Act & Discrimination of Catholics
+   2.2 Civil Rights Movement
+   2.3 Emergence of the Provisional IRA & Loyalist Paramilitaries
+   2.4 Internment, Peace Walls & Bloody Sunday
+   2.5 First Peace Talks
+
+---
+
+# Table of Contents (2)
+
 3. The Good Friday Agreement
-3.1 Core provisions
-3.2 Influence of key actors on the contents of the agreement
-3.3 Institutional reforms
-3.4 Reactions of key actors
+   3.1 The Three Strands
+   3.2 Principle of Consent
+   3.3 Security and Justice Reforms
+   3.4 Legal Dimension
+   3.5 Political and Institutional Dimension
+   3.6 Economical Dimension
+   3.7 Social/Cultural Dimension
 4. Evaluation
-5.1 Weighing the achievements
-5.2 Weighing the weakneses
-5.3 Final judgement
+   4.1 Overview
+   4.2 Weaknesses: Divided Society
+   4.3 Weaknesses: Political Stalling
+   4.4 Strengths: End of the Violence
+   4.5 Strengths: Stable Political System
+   4.6 Final Verdict
+   4.7 Possible Improvements
 
 ---
 
@@ -66,10 +81,9 @@ peace?
 
 **Particular focus and why?**
 - Good Friday Agreement
-- Developments leading upto it
+- Developments leading up to it
 
 ---
-
 ![bg right:40% 100%](https://dcc.dickinson.edu/sites/default/files/Map%20of%20provinces.gif)
 
 # Background of the Troubles
@@ -78,7 +92,8 @@ peace?
 - "Old English" displacing Irish in Ulster
 - Division of the Isle of Ireland in Northern Ireland and Republic of
 Ireland
-systematic discrimination of Catholics:
+
+**Systematic Discrimination of Catholics:**
 - protestants outnumbered Catholics &rarr; biased voting
 - limited representation of Catholics
 
@@ -111,11 +126,12 @@ systematic discrimination of Catholics:
 # Background of the Troubles
 **Emergence of the Provisional IRA (Provos) and loyalist paramilitaries**
 - British army ultimately viewed as enemy 
-&rarr; IRA as defenders of the nationalist cause
+&rarr; Provisional IRA as defenders of the nationalist cause
 - Armed Unionist organizations: UVF, UDA
 
 **Key actors:** 
 - Irish Republican Army
+- Unionist Paramilitaries
 
 ---
 
@@ -123,8 +139,8 @@ systematic discrimination of Catholics:
 
 # Background of the Troubles
 **Internment, "peace walls“, and „Bloody Sunday“**
-- To reduce the worsening violence nationalist grievances were
-addressed and later peace walls were built
+- "One man, one vote"
+- Building of Peace Walls
 - Bloody Sunday: British troops fired on catholic civil rights activists 
 &rarr; highest level of recruitment in Provisional IRA
 
@@ -145,11 +161,9 @@ addressed and later peace walls were built
 - Irish government
 
 ---
-
-# Background: The Troubles
-- started in 1968
-- ended with the Good Friday Agreement in 1998
-- 3500 casulties and more than 40.000 injured
+![bg left:39%](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/112B1/production/_100712307_hi017054094.jpg.webp)
+# The Good Friday Agreement
+- Peace Treaty signed by British and Irish governments on April 10, 1998
 
 ---
 
@@ -229,7 +243,7 @@ of relationships among the peoples of these islands.
 
 # The Good Friday Agreement
 
-**The Three Strands**
+## The Three Strands
 - Strand 1: <span class="strand1">Northern Ireland Assembly</span>
 - Strand 2: <span class="strand2">North/South Ministerial Council</span>
 - Strand 3: 
@@ -299,7 +313,7 @@ accelerated programme for the release of prisoners.
 ## Political and Institutional Dimension
 
 - classic model of power sharing
-- negotiated conflict managament
+- negotiated conflict management
 
 *institutions only work if all stakeholders cooperate* 
 
@@ -345,7 +359,7 @@ cultural issues
 - Ongoing Division
   - Schools separated religiously
   - Segregation in electoral behaviour
-  - Resedential segregation
+  - Residential segregation
 
 *Evaluation Criteria: **Tolerance***
 
@@ -360,7 +374,6 @@ cultural issues
 - Institutions vulnerable to political deadlocks 
   - Vetoes delay decisions 
 
-
 *Evaluation Criteria: **Ability to Act***
 
 
@@ -369,18 +382,46 @@ cultural issues
 # Evaluation - Strengths
 
 ## End of the Violence
+- Agreement improved day-to-day life for citizens
+> [...] my teenage years were immeasurably safer and more normal than those of my parents, largely because of the Agreement and the work which led up to it
+- Most paramilitary organizations stopped fighting
+
 
 ---
+![bg right:60%](https://media.ukandeu.ac.uk/wp-content/uploads/2023/04/Charles-McQuillan-Stringer-Good-Friday-Agreement-anniversary-edited-scaled.jpg)
+
+# Evaluation - Strengths 
+
+## Stable Political System
+- Provided a slow, but working system for the past 28 years
+- Danger of a broken system prevent system from breaking
+
+---
+
+![bg left 95%](./poll-2022.png)
 
 # Evaluation
 
 ## Final Verdict
+- No definitive answer possible
+- Cross community parties on uprise
+- ⁠Tends to get sustainable at the moment 
 
 ---
 
 # Evaluation
 
-## Possible Improvments
+## Possible Improvements
+- Legally binding deadlines for Bill of Rights and a permanent Civic Forum
+- Removal of peace walls
+&rarr; addresses residential segregation
+- Development of new social reconciliation strategies
+&rarr; preferably also legally binding
+
+---
+
+# Thank you for your attention!
+## Sources &rarr;
 
 ---
 
@@ -401,7 +442,7 @@ https://doi.org/10.1108/eum0000000000906
 Ulster University  
 https://cain.ulster.ac.uk/othelem/organ/ira/ira280705.htm  
 
-**Hall, A.** (2018)  
+**Hall, Amanda** (2018)  
 *Incomplete Peace and Social Stagnation*  
 Open Library of Humanities, 4(2)  
 https://doi.org/10.16995/olh.251  
@@ -412,25 +453,29 @@ https://doi.org/10.16995/olh.251
 
 **Government of Ireland** (1998)  
 *Good Friday Agreement*  
+Government of Ireland
 https://assets.ireland.ie/documents/good-friday-agreement.pdf  
 
 
 **Walker, Alex** (2023)  
-*Unionism and the Belfast/Good Friday Agreement*  
-https://ukandeu.ac.uk/unionism-and-the-belfast-good-friday-agreement/  
+*Unionism and the Belfast/Good Friday Agreement*
+UK in a Changing Europe
+https://ukandeu.ac.uk/unionism-and-the-belfast-good-friday-agreement/
 
 **Haire, Siobhan** (2020)  
 *Building a Lasting Peace: 25 Years of the Good Friday Agreement*  
+Quaker
 https://www.quaker.org.uk/blog/25-years-since-the-good-friday-agreement-reflections-from-a-quaker  
 
 
 **Human Rights Consortium** (2023)  
-*Government Betrays Good Friday Agreement on Bill of Rights*  
+*Government Betrays Good Friday Agreement on Bill of Rights*
+Human Rights Consortium
 https://www.humanrightsconsortium.org/government-betrays-good-friday-agreement-on-bill-of-rights/  
 
 ---
 
-<# References> (9-12)
+# References (9-12)
 
 **Wallenfeldt, Jeff** (2019)  
 *The Troubles*  
@@ -439,10 +484,10 @@ https://www.britannica.com/event/The-Troubles-Northern-Ireland-history
 
 **Renwick, Alan & Kelly, Conor** (2023)  
 *Perspectives on the Belfast/Good Friday Agreement*  
-University Collage London
+University College London
 https://www.ucl.ac.uk/social-historical-sciences/sites/social_historical_sciences/files/205_-_perspectives_on_the_belfast_good_friday_agreement.pdf
 
-**Dr. Roulston, S.** (2023)
+**Dr. Roulston, Stephen** (2023)
 *The cost of division in Northern Ireland*
 Ulster University
 https://www.ief.org.uk/wp-content/uploads/2023/04/TEUU-Report-18-Divided-Society-Divided-Education.pdf 
@@ -454,9 +499,54 @@ http://50shadesoffederalism.com/case-studies/northern-ireland-power-sharing-in-c
 
 ---
 
-# References (13-13)
+# References (13-14)
 
 **Coulter, Colin** (2019)
 *Northern Ireland's elusive peace dividend: Neoliberalism, austerity and the politics of class*
 Capital & Class, 43(1), pp. 123–138
 https://doi.org/10.1177/0309816818818309
+
+**Human Rights Consortium** (2021)
+*Survey finds 80% support Bill of Rights for Northern Ireland*
+Human Rights Consortium
+https://www.humanrightsconsortium.org/assembly-committee-survey-finds-80-support-bill-rights-northern-ireland/
+
+
+---
+
+# Media Sources (1-3)
+
+Unknown Cartographer (n.d.)
+Map of the Four Provinces of Ireland
+Dickinson College Commentaries
+https://dcc.dickinson.edu/sites/default/files/Map%20of%20provinces.gif
+
+**Peter Kemp** (1969)
+*Everyday life during the Troubles*
+Britannica
+https://www.britannica.com/event/The-Troubles-Northern-Ireland-history#/media/1/1300883/240001
+
+
+**William L. Rukeyser** (1972)
+*Mass arrests on Bloody Sunday*
+Britannica
+https://www.britannica.com/event/The-Troubles-Northern-Ireland-history#/media/1/1300883/326292
+
+---
+
+# Media Sources (4-6)
+
+**Whyte's** (1998)
+*The front cover of the Good Friday Agreement, signed by the participants*
+BBC News
+https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/112B1/production/_100712307_hi017054094.jpg.webp
+
+**Unknown Author** (2011)
+*Map of Belfast showing peace walls, along with Catholic and Protestant neighbourhoods*
+York University
+https://gjis.journals.yorku.ca/index.php/gjis/article/download/40244/36419/50211
+
+**McQuillan, Charles** (2023)
+*Good Friday Agreement Anniversary*
+UK in a Changing Europe
+https://media.ukandeu.ac.uk/wp-content/uploads/2023/04/Charles-McQuillan-Stringer-Good-Friday-Agreement-anniversary-edited-2000x1235.jpg
